@@ -1,6 +1,10 @@
 # Setup
 title: 양창모
 description: 7년차 디지털/IT 서비스 기획
+IT 및 디지털 서비스 기획 및 PM 경험 보유
+애자일/워터폴 모든 방식에 적응 가능
+다양한 유관 부서 소통 및 대관 경험 보유
+보안/IT/모바일 서비스 경험을 통한 폭넓은 IT 분야 이해력 보유
 url: https://inbooki.github.io
 avatar: /avatar.jpg
 paginate: 5
@@ -31,9 +35,6 @@ exclude:
 logo: logo.png
 social:
   name: Changmo Yang
-  links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
 lang: en
 
 sass:

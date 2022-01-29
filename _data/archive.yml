@@ -1,3 +1,6 @@
+- type: career
+  title: 경력
+  url: /career/
 - type: dates
   title: Dates
   url: /dates/
