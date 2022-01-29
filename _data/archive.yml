@@ -1,6 +1,9 @@
 - type: career
-  title: 경력
+  title: Careers
   url: /career/
+- type: project
+  title: Projects
+  url: /project/
 - type: dates
   title: Dates
   url: /dates/
