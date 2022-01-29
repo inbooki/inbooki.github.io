@@ -1,5 +1,5 @@
 ---
 layout: archive-dates
-permalink: /project/
+permalink: /projects/
 title: Projects
 ---
