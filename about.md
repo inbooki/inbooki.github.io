@@ -1,13 +1,26 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+<br>
+**IT 및 디지털 서비스 기획 및 PM 경험 보유**<br>
+**애자일/워터폴 모든 방식에 적응 가능**<br>
+**다양한 유관 부서 소통 및 대관 경험 보유**<br>
+**보안/IT/모바일 서비스 경험을 통한 폭넓은 IT 분야 이해력 보유**<br>
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
 
-IT 및 디지털 서비스 기획 및 PM 경험 보유
-애자일/워터폴 모든 방식에 적응 가능
-다양한 유관 부서 소통 및 대관 경험 보유
-보안/IT/모바일 서비스 경험을 통한 폭넓은 IT 분야 이해력 보유
+## 현대카드
+Product기획실<br>
+Associate<br>
+2020.02 ~ Present(1년 10개월)
+
+### NICE평가정보
+IT본부 서비스운영실<br>
+대리<br>
+2018.03 ~ 2020.02(1년 11개월)
+
+### ㈜케이티
+VOD플랫폼팀<br>
+사원<br>
+2016.01 ~ 2018.03(2년 3개월)
