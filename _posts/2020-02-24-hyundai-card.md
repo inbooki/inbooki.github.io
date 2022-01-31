@@ -3,7 +3,7 @@ layout: post
 title: Hyundai Card
 date: 2020-02-24 12:00 +0800
 last_modified_at: 2022-01-30 12:00 +0800
-categories: careers
+categories: Careers
 toc: false
 ---
 #### Product기획실

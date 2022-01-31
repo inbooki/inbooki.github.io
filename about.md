@@ -1,26 +1,43 @@
 ---
 layout: page
 title: About Me
+toc: false
 ---
 
-<br>
-**IT 및 디지털 서비스 기획 및 PM 경험 보유**<br>
-**애자일/워터폴 모든 방식에 적응 가능**<br>
-**다양한 유관 부서 소통 및 대관 경험 보유**<br>
-**보안/IT/모바일 서비스 경험을 통한 폭넓은 IT 분야 이해력 보유**<br>
+
+## Skills
+
++ 모바일 어플리케이션 서비스 기획 및 운영 경험
++ 기술적 관점의 기획 요건 제안 및 검토
+    - <font size=3>마이데이터 가이드, 전자서명인증사업자 평가기준 등</font>
++ 다양한 유관 부서 소통 및 대관 경험(정부기관, 협의체 등)
++ IT 서비스/인프라 운영 경험
+    - <font size=3>Linux Server, SQL, Shell Script, DB(MySQL, MariaDB, Oracle DB)</font>
 
 
-### [현대카드](/2020/02/24/hyundai-card/)
+## Experience
+### [현대카드](/careers/2020/02/24/hyundai-card/)
 Product기획실<br>
 Associate<br>
 2020.02 ~ Present
 
-### [NICE평가정보](/2018/03/10/NICE-information/)
+### [NICE평가정보](/careers/2018/03/10/NICE-information/)
 IT본부 서비스운영실<br>
 대리<br>
 2018.03 ~ 2020.02(1년 11개월)
 
-### [㈜케이티](2016/01/04/kt/)
+### [㈜케이티](/careers/2016/01/04/kt/)
 VOD플랫폼팀<br>
 사원<br>
 2016.01 ~ 2018.03(2년 3개월)
+
+## Certification
+ 
+정보처리기사<br>
+리눅스마스터 1급<br>
+
+## Education
+
+전기전자공학<br>
+연세대학교<br>
+2010.03 ~ 2016.02

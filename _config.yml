@@ -48,5 +48,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: 양창모
-  url: https://github.com/inbooki
+#  url: https://github.com/inbooki
   email: inbooki@naver.com
