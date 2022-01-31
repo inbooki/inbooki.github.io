@@ -12,8 +12,8 @@ toc: false
     - <font size=3>마이데이터 가이드, 전자서명인증사업자 평가기준 등</font>
 + 다양한 유관 부서 소통 및 대관 경험(정부기관, 협의체 등)
 + IT 서비스/인프라 운영 경험
-    - <font size=3>Linux Server, SQL, Shell Script, DB(MySQL, MariaDB, Oracle DB)</font>
-
+    - <font size=3>Linux, HPUX, SQL, Shell Script, DB(MySQL, MariaDB, Oracle DB)</font>
+    - <font size=3>Apache, JEUS 등 WEB/WAS </font>
 
 ## Experience
 ### [현대카드](/careers/2020/02/24/hyundai-card/)
