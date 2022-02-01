@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Hyundai Card
+title: 현대카드
 date: 2020-02-24 12:00 +0800
 last_modified_at: 2022-01-30 12:00 +0800
 categories: Careers
 toc: false
 ---
-#### Product기획실
+<h4 style="font-weight:bold;color:#606163">Product기획실<br>Service Planning Manager·Product Owner<br>Associate</h4>
 
-#### 디지털 서비스 기획
+#### 디지털 서비스 기획(Service Planning)
 
 #### 신규 디지털 서비스의 주요 특징, 기능을 정의하며 관련된 기술과 규격을 검토하여 고객이 사용하는 서비스로 만들어질 수 있도록 합니다
 

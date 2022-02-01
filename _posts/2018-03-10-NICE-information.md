@@ -1,12 +1,12 @@
 ---
 layout: post
-title: NICE Information Corporation
+title: NICE평가정보
 date: 2018-03-10 12:00 +0800
 last_modified_at: 2020-02-14 12:00 +0800
 categories: Careers
 toc: false
 ---
-#### 서비스운영실
+<h4 style="font-weight:bold;color:#606163">서비스운영실<br>Security Engineer<br>대리</h4>
 
 #### 사내 IT 서비스 기획/운영
 

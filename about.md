@@ -17,19 +17,20 @@ toc: false
 
 ## Experience
 ### [현대카드](/careers/2020/02/24/hyundai-card/)
+Product Owner<br>
 Product기획실<br>
 Associate<br>
-2020.02 ~ Present
+2020.02 ~ Present<br>
+---
 
 ### [NICE평가정보](/careers/2018/03/10/NICE-information/)
+Security Engineer<br>
 IT본부 서비스운영실<br>
 대리<br>
-2018.03 ~ 2020.02(1년 11개월)
-
+2018.03 ~ 2020.02(1년 11개월)<br>
+---
 ### [㈜케이티](/careers/2016/01/04/kt/)
-VOD플랫폼팀<br>
-사원<br>
-2016.01 ~ 2018.03(2년 3개월)
+Server Engineer<br>VOD플랫폼팀<br>사원<br>2016.01 ~ 2018.03(2년 3개월)<br>
 
 ## Certification
  
