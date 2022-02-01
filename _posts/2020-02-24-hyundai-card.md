@@ -6,7 +6,7 @@ last_modified_at: 2022-01-30 12:00 +0800
 categories: Careers
 toc: false
 ---
-<h4 style="font-weight:bold;color:#606163">Product기획실<br>Service Planning Manager·Product Owner<br>Associate</h4>
+Product기획실<br>Service Planning Manager·Product Owner<br>Associate
 
 #### 디지털 서비스 기획(Service Planning)
 

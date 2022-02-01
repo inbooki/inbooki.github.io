@@ -6,7 +6,7 @@ last_modified_at: 2020-02-14 12:00 +0800
 categories: Careers
 toc: false
 ---
-<h4 style="font-weight:bold;color:#606163">서비스운영실<br>Security Engineer<br>대리</h4>
+서비스운영실<br>Security Engineer<br>대리
 
 #### 사내 IT 서비스 기획/운영
 
