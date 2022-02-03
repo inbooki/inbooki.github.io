@@ -23,7 +23,7 @@ Product기획실<br>Service Planning Manager<br>Associate
     1. 개발/기획부서 협업 경험 다수(JIRA 등 협업툴 활용 및 애자일 경험)
 - 대상 서비스
   * 내 자산 서비스, 전자문서지갑, 클레이튼 NFT 기반 쿠폰 제공 서비스
-
+- 주요 사용툴: JIRA, Confluece, MS Office
 
 #### 디지털 서비스 운영
 
@@ -38,3 +38,4 @@ Product기획실<br>Service Planning Manager<br>Associate
 - 신규 Feature 기획
     1. 서비스 참여 증대(MAU 극대화, 리텐션)를 위한 신규 기획 발굴
     1. 실제 설계 레벨 제안서 작성 협의체/상급기관 대상 제안(eg. 인증수단 추가, 전자서명 구현 등)
+- 주요 사용툴: Excel, SQL 등
