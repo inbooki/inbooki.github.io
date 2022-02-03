@@ -17,7 +17,7 @@ toc: false
 
 ## Experience
 ### [현대카드](/careers/2020/02/24/hyundai-card/)
-Product Owner<br>
+Service Planning Manager<br>
 Product기획실<br>
 Associate<br>
 2020.02 ~ Present<br>

@@ -6,9 +6,9 @@ last_modified_at: 2022-01-30 12:00 +0800
 categories: Careers
 toc: false
 ---
-Product기획실<br>Service Planning Manager·Product Owner<br>Associate
+Product기획실<br>Service Planning Manager<br>Associate
 
-#### 디지털 서비스 기획(Service Planning)
+#### 디지털 서비스 기획
 
 #### 신규 디지털 서비스의 주요 특징, 기능을 정의하며 관련된 기술과 규격을 검토하여 고객이 사용하는 서비스로 만들어질 수 있도록 합니다
 
@@ -25,7 +25,7 @@ Product기획실<br>Service Planning Manager·Product Owner<br>Associate
   * 내 자산 서비스, 전자문서지갑, 클레이튼 NFT 기반 쿠폰 제공 서비스
 
 
-#### 디지털 서비스 운영(Product Owner)
+#### 디지털 서비스 운영
 
 #### 서비스가 지속적으로 성장할 수 있도록 개선 포인트를 발굴하며 정부기관/규제 등 대내외환경 변화에 맞추어 안정적으로 운영될 수 있도록 합니다
 
