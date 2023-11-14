@@ -9,29 +9,28 @@ toc: false
 
 + 모바일 어플리케이션 서비스 기획: Native App(iOS, Android), Web App, API Server
 + Agile Process 산출물 작성: IA, 기능 정의서, Sequence diagram 등
-+ OAuth, 전자서명, PKI 기반 서비스 기획: 금융 마이데이터, 본인확인, 전자서명 등
++ OAuth, PKI 기반 서비스 기획: 금융 마이데이터, 카드본인확인, 전자서명 등
 + Agile Process 내 다수 Stakeholder 와의 협업 리딩(기획 PM): 개발(Native, Server), 디자이너, QA 및 통제부서(정보보안, 법무 등) 
-+ 기업 통합 인프라 연동 설계: MCI, EAI, ERP <> API Server
-+ 
++ 기업 통합 인프라 연동 설계: MCI, EAI, ERP <-> API Server
     - <font size=3>Linux, HPUX, SQL, Shell Script, DB(MySQL, MariaDB, Oracle DB)</font>
     - <font size=3>Apache, JEUS 등 3-Tier System 운영(WEB-WAS-DB) </font>
 
 ## Experience
 ### [현대카드](/careers/2020/02/24/hyundai-card/)
-서비스 기획<br>
+Service Planning Manager<br>
 Product기획실<br>
 Associate<br>
 2020.02 ~ Present<br>
 ---
 
 ### [NICE평가정보](/careers/2018/03/10/NICE-information/)
-VDI/보안솔루션 기획/운영<br>
+Security Engineer<br>
 IT본부 서비스운영실<br>
 대리<br>
 2018.03 ~ 2020.02<br>
 ---
 ### [주식회사 케이티](/careers/2016/01/04/kt/)
-서버 운영<br>
+Server Engineer<br>
 VOD플랫폼팀<br>
 사원<br>
 2016.01 ~ 2018.03<br>
