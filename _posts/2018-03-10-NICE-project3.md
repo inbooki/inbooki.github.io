@@ -3,7 +3,7 @@ layout: post
 title: 신기술 PoC 수행
 date: 2018-03-10 12:00 +0800
 last_modified_at: 2019-06-30 12:00 +0800
-tags: [nice]
+tags: [2018]
 toc: false
 ---
 

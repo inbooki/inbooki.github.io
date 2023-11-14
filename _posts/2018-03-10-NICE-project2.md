@@ -3,7 +3,7 @@ layout: post
 title: 사내 보안감사 및 인증심사 수행
 date: 2018-03-10 12:00 +0800
 last_modified_at: 2020-02-14 12:00 +0800
-tags: [nice]
+tags: [2018]
 toc: false
 ---
 

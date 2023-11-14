@@ -3,7 +3,7 @@ layout: post
 title: 마이데이터 서비스 구축
 date: 2021-03-01 12:00 +0800
 last_modified_at: 2021-12-31 12:00 +0800
-tags: [hyundaicard]
+tags: [2021]
 toc: false
 ---
 #### 개요: 현대카드 '내 자산' 서비스 구축
