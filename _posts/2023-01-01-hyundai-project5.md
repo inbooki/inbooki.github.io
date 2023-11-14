@@ -3,7 +3,7 @@ layout: post
 title: 마이데이터 2.0 확대 적용 및 서비스 개선
 date: 2023-03-01 12:00 +0800
 last_modified_at: 2023-12-11 12:00 +0800
-tags: [hyundaicard]
+tags: [project]
 toc: false
 ---
 #### 개요: 현대카드 '내 자산' 서비스 내 2.0 API 적용 및 서비스 개선

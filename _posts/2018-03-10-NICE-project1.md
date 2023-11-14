@@ -3,7 +3,7 @@ layout: post
 title: 업무 상세 기술(전사 보안서비스 기획/운영)
 date: 2018-03-10 12:00 +0800
 last_modified_at: 2020-02-14 12:00 +0800
-tags: [nice]
+tags: [job]
 toc: false
 ---
 #### 개요: 전사 보안서비스 기획/운영

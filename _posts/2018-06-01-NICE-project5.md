@@ -3,7 +3,7 @@ layout: post
 title: 중요단말기 망분리 구축
 date: 2018-06-01 12:00 +0800
 last_modified_at: 2019-10-10 12:00 +0800
-tags: [nice]
+tags: [project]
 toc: false
 ---
 
