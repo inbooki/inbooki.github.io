@@ -3,7 +3,7 @@ layout: post
 title: 업무 상세 기술(디지털 서비스 기획)
 date: 2020-02-24 12:00 +0800
 last_modified_at: 2023-12-31 12:00 +0800
-tags: [job]
+tags: [업무]
 toc: false
 ---
 #### 개요: 디지털 서비스 기획

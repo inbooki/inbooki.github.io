@@ -3,7 +3,7 @@ layout: post
 title: 마이데이터 활용 신규 사업/서비스 기획
 date: 2022-03-01 12:00 +0800
 last_modified_at: 2022-11-31 12:00 +0800
-tags: [project]
+tags: [프로젝트]
 toc: false
 ---
 #### 개요: 현대카드 '내 자산' 내 카드론 Up-selling 프로세스 구현
