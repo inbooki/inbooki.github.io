@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [NICE평가정보] 보안파일공유서버 구축
+title: (NICE평가정보) 보안파일공유서버 구축
 date: 2018-04-01 12:00 +0800
 last_modified_at: 2018-11-31 12:00 +0800
 tags: [프로젝트]

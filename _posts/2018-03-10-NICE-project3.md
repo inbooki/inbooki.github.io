@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [NICE평가정보] 신기술 PoC 수행
+title: (NICE평가정보) 신기술 PoC 수행
 date: 2018-03-10 12:00 +0800
 last_modified_at: 2019-06-30 12:00 +0800
 tags: [업무]
