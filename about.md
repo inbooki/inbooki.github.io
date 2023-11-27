@@ -11,7 +11,7 @@ toc: false
 + Agile Process 산출물 작성: IA, 기능 정의서, Sequence diagram 등
 + OAuth, PKI 기반 서비스 기획: 금융 마이데이터, 카드본인확인, 전자서명 등
 + Agile Process 내 다수 Stakeholder 와의 협업 리딩(기획 PM): 개발(Native, Server), 디자이너, QA 및 통제부서(정보보안, 법무 등) 
-+ 기업 통합 인프라 연동 설계: MCI, EAI, ERP <-> API Server
++ 기업 통합 인프라 연동 설계: MCI, EAI, ERP ↔ API Server
 
 
 ## Experience
