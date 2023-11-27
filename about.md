@@ -31,14 +31,14 @@ IT본부 서비스운영실<br>
 ### [주식회사 케이티](/careers/2016/01/04/kt/)
 Server Engineer<br>
 VOD플랫폼팀<br>
-사원<br>
+사원<br>s
 2016.01 ~ 2018.03<br>
 
 ## Certification
  
-정보처리기사<br>
-리눅스마스터 1급<br>
-빅데이터분석기사<br>
+리눅스마스터 1급(2017)<br>
+정보처리기사(2019)<br>
+빅데이터분석기사(2022)<br>
 
 ## Education
 
